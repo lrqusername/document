@@ -72,4 +72,4 @@
 	laravel 默认开启了 csrf验证 ，不是get请求的话需要验证csrf,在表单里 加个隐藏域  
 	<input type="hidden" name="_token"         value="{{csrf_token()}}"/>
 
-	
+	xiugai 
